@@ -1,4 +1,12 @@
-### Hi there 👋
+
+  
+  <p align="center">
+  <img src="https://github.com/LucileMarechal/LucileMarechal/blob/main/img/dessinHobbies.png"  alt="Lucile Maréchald" style="margin-right: 20px"/>
+
+  
+ 
+
+
 
 <!--
 **LucileMarechal/LucileMarechal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
